@@ -1,1 +1,1 @@
-# Pneumonia-Ditection-from-Chest-X-ray-using-CNN
+# Image-Super-Resolution-to-Improve-Classification-Quality-using-GANs
